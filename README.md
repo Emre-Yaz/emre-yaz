@@ -1,3 +1,5 @@
+I'm Ibrahim Emre Yaz
+
 - 🔭 I’m currently working on building a back-end with Django.
 - 🌱 I’m currently learning back-end developing.
 - 📫 How to reach me ## https://www.linkedin.com/in/ibrahim-emre-yaz/
