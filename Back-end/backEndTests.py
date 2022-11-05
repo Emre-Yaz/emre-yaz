@@ -1,1 +1,1 @@
-test teast
+print("Hello World!")
