@@ -1,0 +1,26 @@
+altgraph @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot1/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-124/altgraph-0.17.2-py2.py3-none-any.whl
+asgiref==3.5.2
+beautifulsoup4==4.11.1
+bs4==0.0.1
+certifi==2022.6.15.1
+charset-normalizer==2.1.1
+distlib==0.3.6
+Django==4.1.2
+django-deep-serializer==0.1.3
+filelock==3.8.0
+future @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot1/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-124/future-0.18.2-py3-none-any.whl
+idna==3.3
+macholib @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot1/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-124/macholib-1.15.2-py2.py3-none-any.whl
+pbr==5.11.0
+platformdirs==2.5.2
+python-decouple==3.6
+requests==2.28.1
+six @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot1/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-124/six-1.15.0-py2.py3-none-any.whl
+soupsieve==2.3.2.post1
+sqlparse==0.4.3
+stevedore==4.1.0
+urllib3==1.26.12
+virtualenv==20.16.6
+virtualenv-clone==0.5.7
+virtualenvwrapper==4.8.4
+virtualenvwrapper-win==1.2.7
