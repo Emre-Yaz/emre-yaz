@@ -58,7 +58,19 @@
       <br>
       <img src="https://d27jswm5an3efw.cloudfront.net/app/uploads/2019/07/insert-image-html-2-768x304.jpg" alt="HTML image">
       <br>
-      <p>And this is my first web page.</p>
+      <br>
+      <hr>
+      <br>
+      <p>Dynamic variable test, My name is {{name}}, I'm {{age}} years old and I'm {{nationality}}.</p>
+      
+      <h3>Input your text below.</h3>
+      <br>
+      <form method="post" action="counter">
+        {% csrf_token %}
+        <textarea name="text" rows="25" cols="100"></textarea>
+        <br>
+        <input type="submit"/>
+      </form>
   </div>
  
   <div class="certificates">
