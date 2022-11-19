@@ -1,1 +1,1 @@
-The .scss (Sass) files are only avilable in the pro version. You can buy it from: https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/
+The .scss (Sass) files are only avilable in the pro version. You can buy it from: https://bootstrapmade.com/onepage-multipurpose-bootstrap-template/

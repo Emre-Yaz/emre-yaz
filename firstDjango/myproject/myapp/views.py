@@ -1,14 +1,12 @@
 from django.shortcuts import render
 from django.http import HttpResponse
+from .models import Feature
 
 # Create your views here.
 def index(request):
-    context = {
-        'name' : 'Emre',
-        'age' : 23,
-        'nationality' : 'Turkish',
-    }
-    return render(request, 'firstwebpage.html', context)
+    features = Feature.objects.all()
+    
+    return render(request, 'firstwebpage.html', {'features': features})
 
 def counter(request):
     text = request.POST['text']
