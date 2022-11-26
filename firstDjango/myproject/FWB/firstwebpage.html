@@ -15,6 +15,8 @@
   <link href="{% static 'assets/img/favicon.png' %}" rel="icon">
   <link href="{% static 'assets/img/apple-touch-icon.png' %}" rel="apple-touch-icon">
 
+
+
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
@@ -28,7 +30,8 @@
   <link href="{% static 'assets/vendor/swiper/swiper-bundle.min.css' %}" rel="stylesheet">
 
   <!-- Template Main CSS File -->
-  <link href="{% static 'assets/css/style.css' %}" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="{% static 'assets/css/style.css' %}" />
+
 
   <!-- =======================================================
   * Template Name: OnePage - v4.9.2
@@ -383,9 +386,7 @@
               </div>
               <h4><a href="">{{feature.name}}</a></h4>
               <p>{{feature.details}}</p>
-              {% if feature.name == 'Quick' %}
-              <p>This feature says our site is quick</p>
-              {% endif %}
+              
             </div>
             
           </div>
@@ -396,7 +397,7 @@
         </div>
 
       </div>
-    </section><!-- End Sevices Section -->
+    </section><!-- End Services Section -->
 
     <!-- ======= Cta Section ======= -->
     <section id="cta" class="cta">
@@ -946,3 +947,5 @@
 </body>
 
 </html>
+
+  <!-- Test -->
