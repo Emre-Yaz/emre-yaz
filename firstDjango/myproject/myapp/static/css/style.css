@@ -1,0 +1,36 @@
+.navigation-bar {
+  border: 5px outset black;
+  background-color: rgb(154, 42, 42);
+  font-size: 30px; 
+  font-family:Arial, Helvetica, sans-serif;
+  height: 50px;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+.navigates {
+  color: rgb(234, 245, 250);
+  text-decoration: none;
+  transition: 1s;
+  padding-left: 50px;
+  padding-right: 50px;
+  border: 3px outset gray;
+}
+.navigates:hover {
+  color : rgb(0, 0, 0);
+  background-color: darkgrey;
+  box-shadow : 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.certificates {
+  border: 5px outset black;
+  margin-right: 1500px;
+  margin-left: 50px;
+}
+.main-b {
+  margin-left: 50px;
+}
+.h1 {
+  color: black !important;
+  }
+.body {
+  background-color: red;
+}

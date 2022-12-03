@@ -10,6 +10,16 @@ def index(request):
     
     return render(request, 'firstwebpage.html', {'features': features})
 
+def resume(request):
+    features = Feature.objects.all()
+    
+    return render(request, 'fwb_resume.html', {'features': features})
+
+def contact(request):
+    features = Feature.objects.all()
+    
+    return render(request, 'contact.html', {'features': features})
+
 def register(request):
     if request.method == 'POST':
         username = request.POST['username']
@@ -55,6 +65,9 @@ def logout(request):
     return redirect('/')
 
 def counter(request):
-    text = request.POST['text']
-    amountOfWords = len(text.split())
-    return render(request, 'counter.html', {'amount' : amountOfWords}) 
+    entered = [1,2,3,4,5,'tim','tom','john']
+    return render(request, 'counter.html', {'entered' : entered}) 
+
+def post(request, pk):
+    return render(request, 'post.html',{'pk': pk})
+
