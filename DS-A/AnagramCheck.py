@@ -1,19 +1,18 @@
 def anagramcheck(txt1, txt2):
     
-    txt1 = txt1.lower() #To ignore uppercases
-    txt2 = txt2.lower() #
+    #To ignore uppercases
+    txt1 = txt1.lower() 
+    txt2 = txt2.lower() 
     
-    txt1 = txt1.replace(" ","") #To ignore whitespaces
-    txt2 = txt2.replace(" ","") #
+    #To ignore whitespaces
+    txt1 = txt1.replace(" ","") 
+    txt2 = txt2.replace(" ","") 
     
     if len(txt1) != len(txt2):
         return False #print("They are not even same lenght")
         
-    
-    
     for i in txt1:
         if i in txt2:
-            
             return True #print(txt2 + " is an anagram of " + txt1 + ".")
         else:
             return False #print(txt2 + " is not an anagram of " + txt1 + ".")
