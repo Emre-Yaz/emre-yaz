@@ -7,21 +7,18 @@ def pair_sum(rsrc,trgt):
             
             # Sum all the elements of rsrc with each other
             if i+j == trgt: 
+                a = min(i,j)
+                b = max(j,i)
                 # To prevent half of the target from colliding with itself
-                if i==j and rsrc.count(i) < 2:
+                if a==b and rsrc.count(a) < 2:
                     pass
                 # To prevent duplicates
-                elif (i,j) in rlist:
+                elif (a,b) in rlist:
                     pass
                 # Add it to the list as it meets the conditions
                 else:
-                    rlist.append((i,j))
-                    # Eliminate these elements to prevent duplicates (even if their places are changed)
-                    rsrc.remove(i)
-                    rsrc.remove(j)
-                    
-            print(rlist) #To see how it works
-    
+                    rlist.append((a,b))
+
     return len(rlist) #Print to learn how many combinations of pairs we have
     
 
@@ -41,4 +38,4 @@ class TestPair(object):
 t = TestPair()
 t.test(pair_sum)
 
-#pair_sum([1,9,2,8,3,7,4,6,5,5,13,14,11,13,-1],10) # (3,7) or (7,3) won't be counted as one of the pairs
+#print(pair_sum([1,9,2,8,3,7,4,6,5,5,13,14,11,13,-1],10)) # (3,7) or (7,3) won't be counted as one of the pairs
