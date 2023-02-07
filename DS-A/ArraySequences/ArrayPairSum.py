@@ -7,16 +7,19 @@ def pair_sum(rsrc,trgt):
             
             # Sum all the elements of rsrc with each other
             if i+j == trgt: 
-                a = min(i,j)
-                b = max(j,i)
+                
                 # To prevent half of the target from colliding with itself
-                if a==b and rsrc.count(a) < 2:
+                if i==j and rsrc.count(i) < 2:
                     pass
                 # To prevent duplicates
-                elif (a,b) in rlist:
+                elif (i,j) in rlist:
+                    pass
+                elif (j,i) in rlist:
                     pass
                 # Add it to the list as it meets the conditions
                 else:
+                    a = min(i,j)
+                    b = max(j,i)
                     rlist.append((a,b))
 
     return len(rlist) #Print to learn how many combinations of pairs we have
