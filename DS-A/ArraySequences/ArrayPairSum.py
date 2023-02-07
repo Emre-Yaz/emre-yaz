@@ -22,7 +22,7 @@ def pair_sum(rsrc,trgt):
     return len(rlist) #Print to learn how many combinations of pairs we have
     
 
-##########################################################################################
+#########################################################################################
 
 from nose.tools import assert_equal
 
