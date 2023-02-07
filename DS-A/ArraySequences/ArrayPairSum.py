@@ -12,7 +12,7 @@ def pair_sum(rsrc,trgt):
                 if i==j and rsrc.count(i) < 2:
                     pass
                 # To prevent duplicates
-                elif (i,j) in rlist:
+                elif (i,j) in rlist: #elif (i,j) OR (j,i) in rlist:  ----- DOESN'T WORK
                     pass
                 elif (j,i) in rlist:
                     pass
