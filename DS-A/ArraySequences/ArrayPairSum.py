@@ -26,7 +26,7 @@ def pair_sum(rsrc,trgt):
     
 
 #########################################################################################
-
+"""
 from nose.tools import assert_equal
 
 class TestPair(object):
@@ -37,8 +37,15 @@ class TestPair(object):
         assert_equal(sol([1,3,2,2],4),2)
         print('ALL TEST CASES PASSED')
         
-#Run tests
+#Run tests 
 t = TestPair()
-t.test(pair_sum)
+t.test(pair_sum)"""
 
 #print(pair_sum([1,9,2,8,3,7,4,6,5,5,13,14,11,13,-1],10)) # (3,7) or (7,3) won't be counted as one of the pairs
+import time
+
+start_time = time.time()
+pair_sum([1,9,2,8,3,7,4,6,5,5,13,14,11,13,-1],10)
+end_time = time.time()
+
+print("Time elapsed: ", end_time - start_time, "seconds") #2,5*10^-5 seconds
