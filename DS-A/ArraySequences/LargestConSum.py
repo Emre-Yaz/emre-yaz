@@ -20,13 +20,19 @@ def extractor(a):
     
     return a
 
-
 def LCS(arr):
     
-    extractor(arr)
+    if len(arr)==0:
+        return 0
     
-    print(arr)
+    max_sum = current_sum = arr[0]
+    
+    for num in arr[1:]:
+        current_sum = max(current_sum+num,num)
+        max_sum = max(current_sum,max_sum)
+        
+    return max_sum
     
     
-LCS([-2,-3,4,-18,20,-2,1,10,5,-3])  #34
+print(LCS([-2,-3,4,-18,20,-2,1,10,5,-3]))  #34
    
