@@ -3,8 +3,6 @@
 </a>
 <br>
 <br>
-<hr>
-<br>
 
 <!--START_SECTION:waka-->
 
