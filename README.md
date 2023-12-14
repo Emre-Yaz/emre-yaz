@@ -1,9 +1,11 @@
-<a href="https://emre-yaz.github.io/">
+<a href="https://emre-yaz.github.io/" target="_blank">
   <img src="Logo.gif" alt="Personal Logo" width="900" height="400">
 </a>
 <br>
 <br>
-
+<hr>
+<br>
+<br>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20mins-blue)
 
