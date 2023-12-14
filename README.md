@@ -1,8 +1,7 @@
-I'm Ibrahim Emre Yaz
+<a href="https://emre-yaz.github.io/">
+  <img src="Logo.gif" alt="Personal Logo">
+</a>
 
-- 🔭 I’m currently working on building my first website.
-- 🌱 I’m currently learning back-end development.
-- 📫 How to reach me ## https://www.linkedin.com/in/ibrahim-emre-yaz/
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20mins-blue)
