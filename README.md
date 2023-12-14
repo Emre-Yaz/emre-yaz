@@ -71,6 +71,7 @@ MATLAB                   1 repo              ████░░░░░░░�
  Last Updated on 14/12/2023 21:31:38 UTC
 <!--END_SECTION:waka-->
 
+![Alt Text](dino.gif)
 
 <!--
 **Emre-Yaz/emre-yaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
