@@ -1,5 +1,5 @@
 <a href="https://emre-yaz.github.io/">
-  <img src="Logo.gif" alt="Personal Logo" width="900" height="600">
+  <img src="Logo.gif" alt="Personal Logo" width="900" height="400">
 </a>
 <br>
 <br>
