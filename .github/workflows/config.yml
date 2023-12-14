@@ -21,4 +21,5 @@ jobs:
           SHOW_LANGUAGE: True
           SHOW_PROJECTS: True
           SHOW_LOC_CHART: True
+          DEBUG_LOGGING: False
           
