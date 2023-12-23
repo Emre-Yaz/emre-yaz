@@ -48,11 +48,10 @@ Sunday                   30 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     0 secs              █████████████████████░░░░   83.91 % 
-Git                      0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Emre-Yaz.github.io       0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -67,7 +66,7 @@ MATLAB                   1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 22/12/2023 18:34:52 UTC
+ Last Updated on 23/12/2023 18:34:31 UTC
 <!--END_SECTION:waka-->
 
 ![Alt Text](dino.gif)
