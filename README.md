@@ -15,8 +15,6 @@
 
 > 📦 28.0 kB Used in GitHub's Storage 
  > 
-> 🏆 79 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -48,10 +46,10 @@ Sunday                   42 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Projects                 2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -67,7 +65,7 @@ MATLAB                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 18/03/2024 18:36:46 UTC
+ Last Updated on 19/03/2024 18:34:33 UTC
 <!--END_SECTION:waka-->
 
 ![Alt Text](dino.gif)
