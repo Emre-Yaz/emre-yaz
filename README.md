@@ -13,7 +13,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 28.1 kB Used in GitHub's Storage 
+> 📦 28.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 80 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -65,7 +67,7 @@ MATLAB                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 21/09/2024 18:39:37 UTC
+ Last Updated on 22/09/2024 18:39:43 UTC
 <!--END_SECTION:waka-->
 
 ![Alt Text](dino.gif)
