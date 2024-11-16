@@ -15,6 +15,8 @@
 
 > 📦 28.0 kB Used in GitHub's Storage 
  > 
+> 🏆 80 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -65,7 +67,7 @@ MATLAB                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 15/11/2024 18:43:52 UTC
+ Last Updated on 16/11/2024 18:41:25 UTC
 <!--END_SECTION:waka-->
 
 ![Alt Text](dino.gif)
