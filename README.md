@@ -55,17 +55,17 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               3 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
-HTML                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Python                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-EJS                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-MATLAB                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+JavaScript               2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+HTML                     2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Python                   1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+EJS                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+MATLAB                   1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 ```
 
 
 
 
- Last Updated on 15/12/2024 18:43:02 UTC
+ Last Updated on 16/12/2024 18:46:00 UTC
 <!--END_SECTION:waka-->
 
 ![Alt Text](dino.gif)
