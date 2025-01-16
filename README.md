@@ -48,10 +48,10 @@ Sunday                   42 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ss                       8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -67,7 +67,7 @@ MATLAB                   1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 15/01/2025 18:40:55 UTC
+ Last Updated on 16/01/2025 18:41:22 UTC
 <!--END_SECTION:waka-->
 
 ![Alt Text](dino.gif)
