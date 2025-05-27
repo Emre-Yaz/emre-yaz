@@ -9,6 +9,8 @@
 
 > 📦 68.8 kB Used in GitHub's Storage 
  > 
+> 🏆 5 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -40,10 +42,10 @@ Sunday                   42 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   45 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          45 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -59,7 +61,7 @@ MATLAB                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 26/05/2025 18:45:50 UTC
+ Last Updated on 27/05/2025 18:48:47 UTC
 <!--END_SECTION:waka-->
 
 ![Alt Text](dino.gif)
