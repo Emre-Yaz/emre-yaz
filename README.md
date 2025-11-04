@@ -1,4 +1,6 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%206%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-616.9%20thousand%20lines%20of%20code-blue)
@@ -59,7 +61,7 @@ MATLAB                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 03/11/2025 18:45:02 UTC
+ Last Updated on 04/11/2025 18:48:27 UTC
 <!--END_SECTION:waka-->
 
 ![Alt Text](dino.gif)
